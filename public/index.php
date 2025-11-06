@@ -14,6 +14,7 @@
 Data: 4 de novembro de 2025
 Descritivo: Ponto para entrada da aplicação.              
 *******************************************************************************/
+
 $page = isset($_GET["page"]) ? $_GET["page"] : "pratos";
 $action = isset($_GET["action"]) ? $_GET["action"] : "index";
 $id = isset($_GET["id"]) ? $_GET["id"] : null;
