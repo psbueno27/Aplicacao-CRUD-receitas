@@ -11,7 +11,7 @@
                 Juan Pablo (RA: 25181903-2)
                 Pedro Bueno (RA: 25181992-2)
     
-Data: 4 de novembro de 2025
+Data: 5 de novembro de 2025
 Descritivo: Lógica para a confirmação e registro do cadastro.              
 *******************************************************************************/
     session_start();
@@ -68,3 +68,4 @@ Descritivo: Lógica para a confirmação e registro do cadastro.
     }
 
 ?>
+
