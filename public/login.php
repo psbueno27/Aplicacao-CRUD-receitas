@@ -46,7 +46,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tela Login</title>
-    <link rel="stylesheet" href="styles_log.css">
+    <link rel="stylesheet" href="/CRUD%20trabalho/public/css/styles_log.css">
 </head>
 <body>
     <main>
@@ -68,4 +68,5 @@
         </div>
     </main>
 </body>
+
 </html>
