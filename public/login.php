@@ -11,7 +11,7 @@
                 Juan Pablo (RA: 25181903-2)
                 Pedro Bueno (RA: 25181992-2)
     
-Data: 4 de novembro de 2025
+Data: 5 de novembro de 2025
 Descritivo: Ponto para entrada do ambiente de login.              
 *******************************************************************************/
     session_start();
@@ -85,4 +85,5 @@ Descritivo: Ponto para entrada do ambiente de login.
 </body>
 
 </html>
+
 
