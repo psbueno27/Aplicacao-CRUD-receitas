@@ -12,7 +12,7 @@
                 Pedro Bueno (RA: 25181992-2)
     
 Data: 5 de novembro de 2025
-Descritivo: Ponto para entrada do ambiente de login.              
+Descritivo: Modelo para a tabela de usuários.              
 *******************************************************************************/
 class Usuario {
     private $conn;
@@ -46,4 +46,5 @@ class Usuario {
 }
 
 ?>
+
 
