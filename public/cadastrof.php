@@ -11,7 +11,7 @@
                 Juan Pablo (RA: 25181903-2)
                 Pedro Bueno (RA: 25181992-2)
     
-Data: 4 de novembro de 2025
+Data: 5 de novembro de 2025
 Descritivo: Ponto para entrada do ambiente de cadastro.              
 *******************************************************************************/
 include_once __DIR__ . '/../config/database.php';
@@ -68,4 +68,5 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 </body>
 
 </html>
+
 
