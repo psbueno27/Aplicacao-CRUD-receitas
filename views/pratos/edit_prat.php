@@ -51,7 +51,7 @@ include __DIR__ .
     <label for="preparo">Preparo:</label>
     <textarea id="preparo" name="preparo"><?php echo htmlspecialchars($prato->preparo, ENT_QUOTES); ?></textarea>
 
-    <label for="tempo">Preço:</label>
+    <label for="tempo">Tempo:</label>
     <input type="text" id="tempo" name="tempo" step="0.01" value="<?php echo htmlspecialchars($prato->tempo, ENT_QUOTES); ?>" required>
 
     <label for="proteina_id">Proteina:</label>
