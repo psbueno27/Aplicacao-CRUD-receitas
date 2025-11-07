@@ -2,20 +2,20 @@ body{
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #14bbe1;
     color: #333;
 }
 
 .container {
     width: 80%;
     margin: 20px auto;
-    background-color: #ffffff;
+    background-color: #e4eff2;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h1, h2 {
-    color: #00b30fff;
+    color:  #71b7e6;
 }
 
 nav {
@@ -30,7 +30,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #00b30f;
+    color: #0a0ab6;
 }
 
 hr {
@@ -52,12 +52,13 @@ table, th, td {
 
 th, td {
     padding: 10px;
-    text-align: left;
+    text-align: open sans;
 }
 
 th {
-    background-color: #00ff22;
-    color: white;
+    background-color: #072064;
+    color: rgba(230, 236, 240, 0.94);
+    border-radius: 10px;
 }
 
 tr:nth-child(even) {
@@ -68,8 +69,8 @@ tr:nth-child(even) {
     display: inline-block;
     padding: 8px 15px;
     margin: 5px 0;
-    background-color: #00ff0d;
-    color: white;
+    background-color: #0011ff;
+    color: rgb(230, 231, 237);
     text-decoration: none;
     border-radius: 5px;
     border: none;
@@ -77,20 +78,22 @@ tr:nth-child(even) {
 }
 
 .button:hover {
-    background-color: #007009;
+    background-color: #4b0cd4c0;
 }
 
 .button.edit {
-    background-color: #09ff00;
-    color: #333;
+    background-color: #0843f4d6;
+    color: white;
+    border-radius: 10px;
 }
 
 .button.edit:hover {
-    background-color: #1d9100;
+    background-color: #003c91;
 }
 
 .button.delete {
     background-color: #ff0000;
+    border-radius: 10px;
 }
 
 .button.delete:hover {
