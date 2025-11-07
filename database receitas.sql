@@ -33,7 +33,7 @@ INSERT INTO `proteina` (`nome`) VALUES
 
 -- Inserir dados de exemplo na tabela pratos
 INSERT INTO `pratos` (`nome`, `preparo`, `tempo`, `proteina_id`) VALUES
-('Espaguete', 'Adicione água e deixe ferver por 5-10 minutos, depois adicione a massa e ferva ela até ficar mole. Por último, escorra ela e adicione o molho a gosto', '20-30 minutos', 1),
+('Espaguete', 'Adicione água e deixe ferver por 5-10 minutos, depois adicione a massa e ferva ela até ficar mole. Por último, escorra ela e adicione o molho a gosto.', '20-30 minutos', 1),
 ('Cachorro-Quente', 'Corte dois tomates, metade de uma cebola, cozinhe numa panela com azeite de oliva até formar um molho, corte as salsichas em tiras e cozinhe junto.','15-30 minutos' , 2),
 ('Miojo', 'Ferva a água em uma panela, coloque o miojo e deixe ferver até ficar mole. Após isso, adicione qualquer ingrediente que queira para acompanhar. Por último, escorra ele e adicione o tempero a gosto.','5 minutos' , 1)
 
